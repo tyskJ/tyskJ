@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm tyskJ</h1>
-<h3 align="center">A Cloud Architect from Japan</h3>
+<h3 align="center">A cloud architect from Japan</h3>
 
 ---
 
