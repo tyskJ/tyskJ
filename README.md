@@ -25,6 +25,10 @@
 <h1>✍ Latest Blog Posts</h1>
 <ul align="left">
 <!-- BLOG-POST-LIST:START -->
+- [OCI Resource Manager を触ってみる](https://qiita.com/tyskJ/items/584522e7ac3d2ced34c5)
+- [Amazon Route 53 で管理しているドメインのサブドメインを OCI DNS に委任してみた](https://qiita.com/tyskJ/items/b023fd8201583f4a4c40)
+- [OCI IAM の挙動について勘違いしていたこと](https://qiita.com/tyskJ/items/1792e1085f397e997a13)
+- [【小ネタ】OCI CLI で `SSLException` が出た時の対処法](https://qiita.com/tyskJ/items/4eb1be4e5ab63449ad53)
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
