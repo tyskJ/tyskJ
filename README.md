@@ -23,8 +23,10 @@
 
 <!-- --------------------------------- Latest Blog Post ---------------------------------- -->
 <h1>✍ Latest Blog Posts</h1>
+<ul align="left">
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+</ul>
 
 ---
 
