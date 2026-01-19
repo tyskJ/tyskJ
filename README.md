@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm tyskJ</h1>
-<h3 align="center">A cloud architect from Japan</h3>
+<div align="center">
+  
+<h1>Hi 👋, I'm tyskJ</h1>
+<h3>A cloud architect from Japan</h3>
 
 ---
 
@@ -17,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
