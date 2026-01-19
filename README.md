@@ -10,6 +10,12 @@
     <img alt="stats graph" src="https://github-readme-stats.vercel.app/api?username=tyskJ&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true" height="150"/>
     <img alt="language graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyskJ&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&card_width=320&langs_count=15&layout=compact&hide_border=true" height="150"/>
 </p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" alt="stats graph" src="https://github-readme-stats.vercel.app/api?username=tyskJ&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true" height="150"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" alt="language graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyskJ&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&card_width=320&langs_count=15&layout=compact&hide_border=true" height="150"/>
+</a>
 
 ---
 
