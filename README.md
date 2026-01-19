@@ -13,5 +13,6 @@
 
 ---
 
-Credits:[tyskJ](https://github.com/tyskJ)
-Last Edited:01/19/2026
+Credit: [tyskJ](https://github.com/tyskJ)
+
+Last Edited on: 01/19/2026
