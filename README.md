@@ -16,7 +16,7 @@
 <!-- --------------------------------- Languages and Tools ---------------------------------- -->
 <h1>🛠 Languages and Tools</h1>
 <p>
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,graphql,nextjs,materialui,postgres,postman,git,latex,neovim,vscode,md,bash,linux,html,css&perline=15" style="width:12;height:40;"/>
+    <img src="https://skillicons.dev/icons?i=aws,bash,docker,git,github,githubactions,linux,nginx,ps,powershell,py,redhat,terraform,ts,ubuntu,vim,vscode,windows,&perline=15" style="width:12;height:40;"/>
 </p>
 ---
 
