@@ -6,6 +6,7 @@
       <a href="https://qiita.com/tyskJ">
         <img alt="Qiita" src="https://img.shields.io/badge/Qiita-00CA00?logo=qiita&logoColor=white">
       </a>
+      ![](https://komarev.com/ghpvc/?username=tyskJ&color=green)
     </p>
 </div>
 
