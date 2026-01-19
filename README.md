@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm tyskJ</h1>
+<h3 align="center">A Cloud Architect from Japan</h3>
+---
 
 <!--
 **tyskJ/tyskJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
