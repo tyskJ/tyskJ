@@ -20,3 +20,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://qiita.com/tyskJ/feed/"
+          template: '<li><a href="$url">$title</a></li>$newline'
