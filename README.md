@@ -3,10 +3,8 @@
     <h1>Hi 👋, I'm tyskJ</h1>
     <h3>A cloud architect in Japan</h3>
     <p align="center">
-      <a href="https://qiita.com/tyskJ">
-        <img alt="Qiita" src="https://img.shields.io/badge/Qiita-00CA00?logo=qiita&logoColor=white">
-      </a>
-      ![](https://komarev.com/ghpvc/?username=tyskJ&color=green)
+      <a href="https://qiita.com/tyskJ"><img alt="Qiita" src="https://img.shields.io/badge/Qiita-00CA00?logo=qiita&logoColor=white"></a>
+      <img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=tyskJ">
     </p>
 </div>
 
