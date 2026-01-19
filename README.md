@@ -1,6 +1,6 @@
 <div align="center">
 <!-- --------------------------------- header ---------------------------------- -->
-<h1>`Hi 👋, I'm tyskJ`</h1>
+<h1>Hi 👋, I'm tyskJ</h1>
 <h3>A cloud architect in Japan</h3>
 <p>
     <img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=tyskJ">
@@ -15,7 +15,9 @@
 
 <!-- --------------------------------- Languages and Tools ---------------------------------- -->
 <h1>🛠 Languages and Tools</h1>
-
+<p>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,graphql,nextjs,materialui,postgres,postman,git,latex,neovim,vscode,md,bash,linux,html,css" style="width:27rem;"/>
+</p>
 ---
 
 <!-- --------------------------------- :) ---------------------------------- -->
