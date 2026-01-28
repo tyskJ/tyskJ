@@ -26,10 +26,10 @@
 <!-- --------------------------------- Latest Blog Post ---------------------------------- -->
 <h1>✍ Latest Blog Posts</h1>
 <ul align="left">
-<!-- BLOG-POST-LIST:START --><li><a href="https://qiita.com/tyskJ/items/3de6003ff9d95c417f80">OCI IAM Policy を送信元IPで制限する</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://qiita.com/tyskJ/items/2724d62cc0042a5625c1">OCI IAM 拒否ポリシーについて整理する</a></li>
+<li><a href="https://qiita.com/tyskJ/items/3de6003ff9d95c417f80">OCI IAM Policy を送信元IPで制限する</a></li>
 <li><a href="https://qiita.com/tyskJ/items/0d8b2fe9cb52b53852ee">OCI へのアクセス を送信元IPで制限する</a></li>
 <li><a href="https://qiita.com/tyskJ/items/46f7446f0eaf453f0bea">OCI Block Volume のアタッチメントタイプを整理する</a></li>
-<li><a href="https://qiita.com/tyskJ/items/584522e7ac3d2ced34c5">OCI Resource Manager を触ってみる</a></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
