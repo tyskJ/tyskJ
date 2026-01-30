@@ -20,6 +20,7 @@
 <p>
     <img src="https://skillicons.dev/icons?i=aws,bash,docker,git,github,githubactions,linux,nginx,powershell,py,redhat,terraform,ts,ubuntu,vim,vscode,windows,&perline=11" style="width:12;height:40;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg" width=12;height=40;/>
+    <i class="devicon-datadog-original colored"></i>
 </p>
 
 ---
