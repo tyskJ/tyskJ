@@ -19,6 +19,8 @@
 <h1>🛠 Languages and Tools</h1>
 <p>
     <img src="https://skillicons.dev/icons?i=aws,bash,docker,git,github,githubactions,linux,nginx,powershell,py,redhat,terraform,ts,ubuntu,vim,vscode,windows,&perline=11" style="width:12;height:40;"/>
+</p>
+<p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg" height=40 />
 </p>
 
