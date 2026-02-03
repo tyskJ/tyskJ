@@ -59,6 +59,22 @@
   <h1>🏆 Certifications</h1>
   <br>
   <img src="./img/certifications/aws-clf.png" alt="AWS Certified Cloud Practitioner" width=80 height=80 />
+  <img src="./img/certifications/aws-aif.png" alt="AWS Certified AI Practitioner" width=80 height=80 />
+  <img src="./img/certifications/aws-saa.png" alt="AWS Certified Solutions Architect - Associate" width=80 height=80 />
+  <img src="./img/certifications/aws-dva.png" alt="AWS Certified Developer - Associate" width=80 height=80 />
+  <img src="./img/certifications/aws-dea.png" alt="AWS Certified Data Engineer - Associate" width=80 height=80 />
+  <img src="./img/certifications/aws-soa.png" alt="AWS Certified SysOps Administrator - Associate" width=80 height=80 />
+  <img src="./img/certifications/aws-coa.png" alt="AWS Certified CloudOps Engineer - Associate" width=80 height=80 />
+  <img src="./img/certifications/aws-mla.png" alt="AWS Certified Machine Learning Engineer - Associate" width=80 height=80 />
+  <img src="./img/certifications/aws-sap.png" alt="AWS Certified Solutions Architect - Professional" width=80 height=80 />
+  <img src="./img/certifications/aws-dop.png" alt="AWS Certified DevOps Engineer - Professional" width=80 height=80 />
+  <img src="./img/certifications/aws-scs.png" alt="AWS Certified Security - Specialty" width=80 height=80 />
+  <img src="./img/certifications/aws-ans.png" alt="AWS Certified Advanced Networking - Specialty" width=80 height=80 />
+  <img src="./img/certifications/aws-mls.png" alt="AWS Certified Machine Learning - Specialty" width=80 height=80 />
+  <img src="./img/certifications/aws-das.png" alt="AWS Certified Data Analytics - Specialty" width=80 height=80 />
+  <img src="./img/certifications/aws-dbs.png" alt="AWS Certified Database - Specialty" width=80 height=80 />
+  <img src="./img/certifications/aws-pas.png" alt="AWS Certified: SAP on AWS - Specialty" width=80 height=80 />
+  <img src="./img/certifications/aws-.png" alt="" width=80 height=80 />
   <br>
 </div>
 
