@@ -13,10 +13,13 @@
 
 
 <div align="center">
-<p>
-    <img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=tyskJ">
-    <a href="https://qiita.com/tyskJ"><img alt="Qiita" src="https://img.shields.io/badge/Qiita-00CA00?logo=qiita&logoColor=white"></a>
+<p align="center">
+  <img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=tyskJ">
+  <a href="https://qiita.com/tyskJ">
+    <img src="https://badgen.org/img/qiita/tyskJ/articles?style=plastic" alt="Articles" />
+  </a>
 </p>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="stats graph" src="https://github-readme-stats-plum-phi-49.vercel.app/api?username=tyskJ&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true" height="150"/>
 </a>
