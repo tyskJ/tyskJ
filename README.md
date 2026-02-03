@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=142F46&height=70&section=header)
 <div align="center">
 <!-- --------------------------------- header ---------------------------------- -->
 <h1>Hi 👋, I'm tyskJ</h1>
