@@ -1,6 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=142F46&height=70&section=header)
 <div align="center">
 <!-- --------------------------------- header ---------------------------------- -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=142F46&height=70&section=header)
 <h1>Hi 👋, I'm tyskJ</h1>
 <h3>A cloud architect in Japan</h3>
 <p>
