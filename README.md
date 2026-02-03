@@ -86,6 +86,7 @@
   <br>
 
   ![AP](https://unofficial-ipa-exam-badges.vercel.app/en/icon/ap/2024/autumn)
+  <img src="https://unofficial-ipa-exam-badges.vercel.app/en/icon/ap/2024/autumn">
 
 </div>
 
