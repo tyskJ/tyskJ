@@ -26,35 +26,34 @@
 
 ---
 
-<div align="center">
-
 <!-- --------------------------------- Languages and Tools ---------------------------------- -->
-<h1>🛠 Languages and Tools</h1>
-<p>
+<div align="center">
+  <h1>🛠 Languages and Tools</h1>
+  <p>
     <img src="https://skillicons.dev/icons?i=aws,bash,docker,git,github,githubactions,linux,nginx,powershell,py,redhat,terraform,ts,ubuntu,vim,vscode,windows,&perline=11" style="width:12;height:40;"/>
-</p>
-<p>
+  </p>
+  <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/newrelic/newrelic-original.svg" height="40"/>
-</p>
+  </p>
+</div>
 
 ---
 
 <!-- --------------------------------- Latest Blog Post ---------------------------------- -->
-<h1>✍ Latest Blog Posts</h1>
-<ul align="left">
-<!-- BLOG-POST-LIST:START --><li><a href="https://qiita.com/tyskJ/items/41d5a1c63b61088f427b">OCI VCN Flow Logs で L4 レベルのトラフィックを可視化する</a></li>
-<li><a href="https://qiita.com/tyskJ/items/2724d62cc0042a5625c1">OCI IAM 拒否ポリシーについて整理する</a></li>
-<li><a href="https://qiita.com/tyskJ/items/3de6003ff9d95c417f80">OCI IAM Policy を送信元IPで制限する</a></li>
-<li><a href="https://qiita.com/tyskJ/items/0d8b2fe9cb52b53852ee">OCI へのアクセス を送信元IPで制限する</a></li>
+<div align="center">
+  <h1>✍ Latest Blog Posts</h1>
+  <ul align="left">
+<!-- BLOG-POST-LIST:START -->
+    <li><a href="https://qiita.com/tyskJ/items/41d5a1c63b61088f427b">OCI VCN Flow Logs で L4 レベルのトラフィックを可視化する</a></li>
+    <li><a href="https://qiita.com/tyskJ/items/2724d62cc0042a5625c1">OCI IAM 拒否ポリシーについて整理する</a></li>
+    <li><a href="https://qiita.com/tyskJ/items/3de6003ff9d95c417f80">OCI IAM Policy を送信元IPで制限する</a></li>
+    <li><a href="https://qiita.com/tyskJ/items/0d8b2fe9cb52b53852ee">OCI へのアクセス を送信元IPで制限する</a></li>
 <!-- BLOG-POST-LIST:END -->
-</ul>
+  </ul>
+</div>
 
 ---
-
-
-
-</div>
 
 <!-- --------------------------------- Footer ---------------------------------- -->
 <div align="center">
