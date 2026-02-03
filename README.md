@@ -79,10 +79,10 @@
   <img src="./img/certifications/az-900.png" alt="Microsoft Certified: Azure Fundamentals" width=80 height=80 />
   <br>
   <br>
-  <img src="./img/certifications/.png" alt="" width=80 height=80 />
-  <img src="./img/certifications/.png" alt="" width=80 height=80 />
-  <img src="./img/certifications/.png" alt="" width=80 height=80 />
-  <img src="./img/certifications/.png" alt="" width=80 height=80 />
+  <img src="./img/certifications/oci-foundations-associate-2025.png" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate" width=80 height=80 />
+  <img src="./img/certifications/oci-ai-foundations-associate-2025.png" alt="Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate" width=80 height=80 />
+  <img src="./img/certifications/oci-data-platform-foundations-associate-2025.png" alt="Oracle Data Platform 2025 Certified Foundations Associate" width=80 height=80 />
+  <img src="./img/certifications/oci-architect-associate-2025.png" alt="Oracle Cloud Infrastructure 2025 Certified Architect Associate" width=80 height=80 />
   <br>
 </div>
 
