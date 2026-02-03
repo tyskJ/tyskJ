@@ -85,7 +85,7 @@
   <img src="./img/certifications/oci-architect-associate-2025.png" alt="Oracle Cloud Infrastructure 2025 Certified Architect Associate" width=150 height=150 />
   <br>
   <br>
-  <img src="https://unofficial-ipa-exam-badges.vercel.app/en/icon/ap/2024/autumn">
+  <img src="https://unofficial-ipa-exam-badges.vercel.app/en/icon/ap/2024/autumn" alt="Applied Information Technology Engineer Examination" width=80 height=80 />
   <br>
 </div>
 
