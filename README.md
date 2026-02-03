@@ -74,7 +74,6 @@
   <img src="./img/certifications/aws-das.png" alt="AWS Certified Data Analytics - Specialty" width=80 height=80 />
   <img src="./img/certifications/aws-dbs.png" alt="AWS Certified Database - Specialty" width=80 height=80 />
   <img src="./img/certifications/aws-pas.png" alt="AWS Certified: SAP on AWS - Specialty" width=80 height=80 />
-  <img src="./img/certifications/aws-.png" alt="" width=80 height=80 />
   <br>
 </div>
 
