@@ -75,6 +75,9 @@
   <img src="./img/certifications/aws-dbs.png" alt="AWS Certified Database - Specialty" width=80 height=80 />
   <img src="./img/certifications/aws-pas.png" alt="AWS Certified: SAP on AWS - Specialty" width=80 height=80 />
   <br>
+  <br>
+  <img src="./img/certifications/az-900.png" alt="Microsoft Certified: Azure Fundamentals" width=80 height=80 />
+  <br>
 </div>
 
 ---
