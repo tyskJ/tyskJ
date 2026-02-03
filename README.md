@@ -85,8 +85,11 @@
   <img src="./img/certifications/oci-architect-associate-2025.png" alt="Oracle Cloud Infrastructure 2025 Certified Architect Associate" width=150 height=150 />
   <br>
   <br>
-  <a ref="https://qiita.com/kedama-t/items/ec11053603895ae727a0">
+  <a href="https://qiita.com/kedama-t/items/ec11053603895ae727a0">
     <img src="https://unofficial-ipa-exam-badges.vercel.app/en/icon/ap/2024/autumn" alt="Applied Information Technology Engineer Examination" width=80 height=80 />
+  </a>
+  <a href="https://qiita.com/RZQiita/items/ce21547bc7ab8a64f006">
+    <img src="./img/certifications/ipa-sc.png" alt="Registered Information Security Specialist Examination" width=80 height=80 />
   </a>
   <br>
 </div>
