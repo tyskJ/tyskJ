@@ -19,7 +19,7 @@
     <img src="https://badgen.org/img/qiita/tyskJ/articles?style=plastic" alt="Articles" />
   </a>
 </p>
-<p>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="stats graph" src="https://github-readme-stats-plum-phi-49.vercel.app/api?username=tyskJ&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true" height="150"/>
   </a>
