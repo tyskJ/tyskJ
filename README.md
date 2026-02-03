@@ -57,6 +57,9 @@
 <!-- --------------------------------- Certifications ---------------------------------- -->
 <div align="center">
   <h1>🏆 Certifications</h1>
+  <br>
+  <img src="./img/certifications/aws-clf.png" alt="AWS Certified Cloud Practitioner" width=80 height=80 />
+  <br>
 </div>
 
 ---
