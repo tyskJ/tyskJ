@@ -84,10 +84,9 @@
   <img src="./img/certifications/oci-data-platform-foundations-associate-2025.png" alt="Oracle Data Platform 2025 Certified Foundations Associate" width=150 height=150 />
   <img src="./img/certifications/oci-architect-associate-2025.png" alt="Oracle Cloud Infrastructure 2025 Certified Architect Associate" width=150 height=150 />
   <br>
-
-  ![AP](https://unofficial-ipa-exam-badges.vercel.app/en/icon/ap/2024/autumn)
+  <br>
   <img src="https://unofficial-ipa-exam-badges.vercel.app/en/icon/ap/2024/autumn">
-
+  <br>
 </div>
 
 ---
