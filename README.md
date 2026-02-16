@@ -44,10 +44,10 @@
 <div align="center">
   <h1>✍ Latest Blog Posts</h1>
   <ul align="left">
-<!-- BLOG-POST-LIST:START --><li><a href="https://qiita.com/tyskJ/items/82f01465ded742fa0f22">【初心者向け】Amazon Cognito について整理する</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://qiita.com/tyskJ/items/a86d0b052d8692f67fcf">Amazon API Gateway のプライベート統合トラフィックを HTTPS 化する方法</a></li>
+<li><a href="https://qiita.com/tyskJ/items/82f01465ded742fa0f22">【初心者向け】Amazon Cognito について整理する</a></li>
 <li><a href="https://qiita.com/tyskJ/items/d1fdca7100baecc0d00c">OCI Connector Hub について整理する</a></li>
 <li><a href="https://qiita.com/tyskJ/items/41d5a1c63b61088f427b">OCI VCN Flow Logs で L4 レベルのトラフィックを可視化する</a></li>
-<li><a href="https://qiita.com/tyskJ/items/2724d62cc0042a5625c1">OCI IAM 拒否ポリシーについて整理する</a></li>
 <!-- BLOG-POST-LIST:END -->
   </ul>
 </div>
