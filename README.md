@@ -44,10 +44,10 @@
 <div align="center">
   <h1>✍ Latest Blog Posts</h1>
   <ul align="left">
-<!-- BLOG-POST-LIST:START --><li><a href="https://qiita.com/tyskJ/items/9fa0df0749579ae9d728">AWS Network Firewall が Transit Gateway にネイティブ統合されたので試してみる</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://qiita.com/tyskJ/items/993488494abfb9954aa5">OCI Bastion について整理する</a></li>
+<li><a href="https://qiita.com/tyskJ/items/9fa0df0749579ae9d728">AWS Network Firewall が Transit Gateway にネイティブ統合されたので試してみる</a></li>
 <li><a href="https://qiita.com/tyskJ/items/a86d0b052d8692f67fcf">Amazon API Gateway のプライベート統合トラフィックを HTTPS 化する方法</a></li>
 <li><a href="https://qiita.com/tyskJ/items/82f01465ded742fa0f22">【初心者向け】Amazon Cognito について整理する</a></li>
-<li><a href="https://qiita.com/tyskJ/items/d1fdca7100baecc0d00c">OCI Connector Hub について整理する</a></li>
 <!-- BLOG-POST-LIST:END -->
   </ul>
 </div>
