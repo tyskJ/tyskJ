@@ -44,10 +44,10 @@
 <div align="center">
   <h1>✍ Latest Blog Posts</h1>
   <ul align="left">
-<!-- BLOG-POST-LIST:START --><li><a href="https://qiita.com/tyskJ/items/f7a05600a0d5ef59eb69">OCI Compute のカスタムメトリクス取得方法 - スクリプト 編</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://qiita.com/tyskJ/items/71e9afc90b28dce9a18a">OCI Compute のカスタムメトリクス取得方法 - Management Agent Plugin 編</a></li>
+<li><a href="https://qiita.com/tyskJ/items/f7a05600a0d5ef59eb69">OCI Compute のカスタムメトリクス取得方法 - スクリプト 編</a></li>
 <li><a href="https://qiita.com/tyskJ/items/9345d09f8f4e9d18ea96">OCI Compute のカスタムメトリクス取得方法 - 概要編</a></li>
 <li><a href="https://qiita.com/tyskJ/items/14beb70a5e9e8cf746ad">OCI Certificates で外部公開ウェブサイトを SSL化する</a></li>
-<li><a href="https://qiita.com/tyskJ/items/3dc9c65a0199ac012a78">OCI Compute のカスタムログ設定 - Linux/Windows</a></li>
 <!-- BLOG-POST-LIST:END -->
   </ul>
 </div>
