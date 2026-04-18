@@ -44,10 +44,10 @@
 <div align="center">
   <h1>✍ Latest Blog Posts</h1>
   <ul align="left">
-<!-- BLOG-POST-LIST:START --><li><a href="https://qiita.com/tyskJ/items/32a4339f650ed4635f28">OCI WAF エッジポリシーで Web アプリケーションを保護する</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://qiita.com/tyskJ/items/f316c887b3b97f9f6672">OCI WAF ポリシーの運用管理環境を整備してみた</a></li>
+<li><a href="https://qiita.com/tyskJ/items/32a4339f650ed4635f28">OCI WAF エッジポリシーで Web アプリケーションを保護する</a></li>
 <li><a href="https://qiita.com/tyskJ/items/0aeca45e4ed37a160d76">OCI Compute のカスタムメトリクス取得方法 - Custom Logs Monitoring Plugin 編</a></li>
 <li><a href="https://qiita.com/tyskJ/items/71e9afc90b28dce9a18a">OCI Compute のカスタムメトリクス取得方法 - Management Agent Plugin 編</a></li>
-<li><a href="https://qiita.com/tyskJ/items/f7a05600a0d5ef59eb69">OCI Compute のカスタムメトリクス取得方法 - スクリプト 編</a></li>
 <!-- BLOG-POST-LIST:END -->
   </ul>
 </div>
