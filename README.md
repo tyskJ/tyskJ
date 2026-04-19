@@ -12,7 +12,7 @@
 <p align="center">
   <img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=tyskJ">
   <a href="https://qiita.com/tyskJ">
-    <img src="https://qiita-badge.apiapi.app/s/tyskJ/contributions.svg" alt="Articles" />
+    <img src="https://qiita-badge.apiapi.app/s/tyskJ/posts.svg" alt="Articles" />
   </a>
 </p>
 <p align="center">
