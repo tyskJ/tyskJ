@@ -44,10 +44,10 @@
 <div align="center">
   <h1>✍ Latest Blog Posts</h1>
   <ul align="left">
-<!-- BLOG-POST-LIST:START --><li><a href="https://qiita.com/tyskJ/items/8bdcfa933c27cf9e81bd">OCI Cloud Guard Instance Security について整理する</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://qiita.com/tyskJ/items/b2c6ad078e87056a6398">閉域網 RHEL EC2 のパッケージアップデートを S3 Files で解決する</a></li>
+<li><a href="https://qiita.com/tyskJ/items/8bdcfa933c27cf9e81bd">OCI Cloud Guard Instance Security について整理する</a></li>
 <li><a href="https://qiita.com/tyskJ/items/f5e2335ff6912a375c89">AWS Systems Manager Documents &lpar;Automation runbook&rpar; で自動開閉局を実装してみた</a></li>
 <li><a href="https://qiita.com/tyskJ/items/9c12cd98f48670c1c8ed">OCI Vulnerability Scanning Service について整理する</a></li>
-<li><a href="https://qiita.com/tyskJ/items/4ad08a1b564edb50f626">【OCI】Oracle Integration Cloud について整理する</a></li>
 <!-- BLOG-POST-LIST:END -->
   </ul>
 </div>
