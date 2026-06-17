@@ -44,10 +44,10 @@
 <div align="center">
   <h1>✍ Latest Blog Posts</h1>
   <ul align="left">
-<!-- BLOG-POST-LIST:START --><li><a href="https://qiita.com/tyskJ/items/e44e02a4a1fb6becddde">OCI の有料アカウント &lpar;Pay as You Go&rpar; で テクニカル・サポート・リクエスト を利用するまでの手順</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://qiita.com/tyskJ/items/68e53ef565cc04210d2e">【初心者向け】AWS Code シリーズ徹底入門 - ① 概要編</a></li>
+<li><a href="https://qiita.com/tyskJ/items/e44e02a4a1fb6becddde">OCI の有料アカウント &lpar;Pay as You Go&rpar; で テクニカル・サポート・リクエスト を利用するまでの手順</a></li>
 <li><a href="https://qiita.com/tyskJ/items/2168b44d1d005683d1ea">Amazon Transcribe × AWS Glue DataBrew で日本語音声ファイルの文字起こしとマスキングを実装してみた</a></li>
 <li><a href="https://qiita.com/tyskJ/items/b2c6ad078e87056a6398">閉域網 RHEL EC2 のパッケージアップデートを S3 Files で解決する</a></li>
-<li><a href="https://qiita.com/tyskJ/items/8bdcfa933c27cf9e81bd">OCI Cloud Guard Instance Security について整理する</a></li>
 <!-- BLOG-POST-LIST:END -->
   </ul>
 </div>
