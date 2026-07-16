@@ -1,4 +1,4 @@
-<!-- --------------------------------- header ---------------------------------- -->
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8f5f5ea0-d7b2-4156-8cb7-4ff0fca35bfe" /><img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/1dc33d1b-e995-4ca6-8fca-c5213f758927" /><!-- --------------------------------- header ---------------------------------- -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
@@ -68,11 +68,6 @@
   <img src="./img/certifications/aws-sap.png" alt="AWS Certified Solutions Architect - Professional" width=80 height=80 />
   <img src="./img/certifications/aws-dop.png" alt="AWS Certified DevOps Engineer - Professional" width=80 height=80 />
   <img src="./img/certifications/aws-scs.png" alt="AWS Certified Security - Specialty" width=80 height=80 />
-  <img src="./img/certifications/aws-ans.png" alt="AWS Certified Advanced Networking - Specialty" width=80 height=80 />
-  <img src="./img/certifications/aws-mls.png" alt="AWS Certified Machine Learning - Specialty" width=80 height=80 />
-  <img src="./img/certifications/aws-das.png" alt="AWS Certified Data Analytics - Specialty" width=80 height=80 />
-  <img src="./img/certifications/aws-dbs.png" alt="AWS Certified Database - Specialty" width=80 height=80 />
-  <img src="./img/certifications/aws-pas.png" alt="AWS Certified: SAP on AWS - Specialty" width=80 height=80 />
   <br>
   <br>
   <img src="./img/certifications/az-900.png" alt="Microsoft Certified: Azure Fundamentals" width=80 height=80 />
@@ -91,6 +86,13 @@
     <img src="./img/certifications/ipa-sc.png" alt="Registered Information Security Specialist Examination" width=80 height=80 />
   </a>
   <br>
+  <br>
+  <h2>📜🚫 Retirements</h2>
+  <img src="./img/certifications/aws-ans.png" alt="AWS Certified Advanced Networking - Specialty - 2024/08/25" width=80 height=80 />
+  <img src="./img/certifications/aws-mls.png" alt="AWS Certified Machine Learning - Specialty - 2026/03/31" width=80 height=80 />
+  <img src="./img/certifications/aws-das.png" alt="AWS Certified Data Analytics - Specialty - 2024/04/08" width=80 height=80 />
+  <img src="./img/certifications/aws-dbs.png" alt="AWS Certified Database - Specialty - 2024/04/29" width=80 height=80 />
+  <img src="./img/certifications/aws-pas.png" alt="AWS Certified: SAP on AWS - Specialty - 2024/04/29" width=80 height=80 />
 </div>
 
 <!-- --------------------------------- Footer ---------------------------------- -->
