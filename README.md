@@ -72,6 +72,7 @@
   <br>
   <img src="./img/certifications/aws-microcredentials-an.png" alt="AWS Microcredentials - Application Networking" width=80 height=80 />
   <img src="./img/certifications/aws-microcredentials-ir.png" alt="AWS Microcredentials - Incident Response" width=80 height=80 />
+  <img src="./img/certifications/aws-microcredentials-sl.png" alt="AWS Microcredentials - Serverless" width=80 height=80 />
   <br>
   <br>
   <img src="./img/certifications/az-900.png" alt="Microsoft Certified: Azure Fundamentals" width=80 height=80 />
