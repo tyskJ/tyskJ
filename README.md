@@ -44,10 +44,10 @@
 <div align="center">
   <h1>✍ Latest Blog Posts</h1>
   <ul align="left">
-<!-- BLOG-POST-LIST:START --><li><a href="https://qiita.com/tyskJ/items/17226e6a0c4eba8ef562">【初心者向け】AWS Code シリーズ徹底入門 - ④ AWS CodeDeploy 編</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://qiita.com/tyskJ/items/7516e8793f8f7aa28a76">【初心者向け】AWS Code シリーズ徹底入門 - 目次</a></li>
+<li><a href="https://qiita.com/tyskJ/items/892672fb4ff8ea35c1e2">【初心者向け】AWS Code シリーズ徹底入門 - ⑤ AWS CodePipeline 編</a></li>
+<li><a href="https://qiita.com/tyskJ/items/17226e6a0c4eba8ef562">【初心者向け】AWS Code シリーズ徹底入門 - ④ AWS CodeDeploy 編</a></li>
 <li><a href="https://qiita.com/tyskJ/items/243627ebf54fe79ae4c4">【初心者向け】AWS Code シリーズ徹底入門 - ③ AWS CodeBuild 編</a></li>
-<li><a href="https://qiita.com/tyskJ/items/d532134ad04380307b0c">【初心者向け】AWS Code シリーズ徹底入門 - ② AWS CodeCommit 編</a></li>
-<li><a href="https://qiita.com/tyskJ/items/68e53ef565cc04210d2e">【初心者向け】AWS Code シリーズ徹底入門 - ① 概要編</a></li>
 <!-- BLOG-POST-LIST:END -->
   </ul>
 </div>
